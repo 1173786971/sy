@@ -1,6 +1,6 @@
 #include<iostream>
 #include<string>
-Using namespace std;
+using namespace std;
 
 int main(){
     cout<<"Hello World"<<endl;
